@@ -1,4 +1,4 @@
-module github.com/erda-project/erda
+module github.com/xlsa/erda
 
 go 1.22.0
 
